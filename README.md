@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Software development**
 
 - 📫 How to reach me **dusperin1234@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
